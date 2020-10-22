@@ -1,19 +1,36 @@
-### Hi there 👋
+![capa github](https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Capa_github.png)  
 
-koziel na area
 
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KozielGPC&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=KozielGPC&theme=buefy"/></td>
+    </tr>   
+  </table>
+</center>  
+
+### Hey! Hello World 😁 <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
+
+---
+
+About me here 
+
+
+What I like to do
 <!--
-**KozielGPC/KozielGPC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Amo dançar :dancer:, ler :books: e ir a karaokês :microphone:  
+Sou mãe de duas gatinhas, a Ruby e a Banguela :cat2:  
 -->
 
+Where do you find me? :mag:  
+
+<a href="https://www.instagram.com/marciogpc/"><img src="https://github.com/KozielGPC/KozielGPC/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/marciogpc/)  
+
+<a href="https://www.linkedin.com/in/marciogpc/"><img src="https://github.com/KozielGPC/KozielGPC/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/marciogpc/)  
+
+<a href="mailto:gpcgabriel0@gmail.com"><img src="https://github.com/KozielGPC/KozielGPC/blob/main/images/email.png" width="16"></img></a> [Email](mailto:gpcgabriel0@gmail.com)  
+
+---  
+
+![](https://komarev.com/ghpvc/?username=KozielGPC&color=blue&style=flat)

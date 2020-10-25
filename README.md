@@ -20,11 +20,7 @@ I'm currently trying to improve my skills in web development, using React, Node,
 
 
 
-I love games/esports, music, programming and cats
-<!--
-Amo dançar :dancer:, ler :books: e ir a karaokês :microphone:  
-Sou mãe de duas gatinhas, a Ruby e a Banguela :cat2:  
--->
+I love games/esports, music, super-heros and sci-fi movies, programming and cats 
 
 Where do you find me? :mag:  
 

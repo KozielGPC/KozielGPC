@@ -1,11 +1,12 @@
+<!--
 ![capa github](https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Capa_github.png)  
-
+-->
 
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KozielGPC&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=KozielGPC&theme=buefy"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KozielGPC&hide=html&layout=compact&theme=dark" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=KozielGPC&theme=dark"/></td>
     </tr>   
   </table>
 </center>  
@@ -14,10 +15,12 @@
 
 ---
 
-About me here 
+Since 2016 programming, I am a computer science student, computer technician graduated in high school. 
+I'm currently trying to improve my skills in web development, using React, Node, SQL and these things. I also used to programm in Java and Python.
 
 
-What I like to do
+
+I love games/esports, music, programming and cats
 <!--
 Amo dançar :dancer:, ler :books: e ir a karaokês :microphone:  
 Sou mãe de duas gatinhas, a Ruby e a Banguela :cat2:  
